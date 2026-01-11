@@ -18,6 +18,8 @@
 #include "Keys.h"
 #include "Squad.h"
 #include "Hunter.h"
+#include "HashTable.h"
+
 
 
 class Huntech {
@@ -29,7 +31,7 @@ private:
     AVLTree<AuraKey, Squad*, AuraKeyLess> squadsByAura;
 
     // All hunters ever: hunterId -> Hunter*
-    AVLTree<int, Hunter*> huntersById;
+    HashTable<int, Hunter*> huntersById;
 
     // Manual lists to free all allocated objects (no STL)
     struct SquadNode {

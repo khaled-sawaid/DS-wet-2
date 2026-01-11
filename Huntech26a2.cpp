@@ -19,7 +19,6 @@ void Huntech::freeAll() {
     // Clear trees (deletes only tree nodes, not the Squad*/Hunter* themselves)
     squadsById.clear();
     squadsByAura.clear();
-    huntersById.clear();
 
     // Delete allocated hunters
     while (allHunters) {
