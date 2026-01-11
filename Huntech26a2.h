@@ -14,9 +14,49 @@
 #define HUNTECH26A2_H_
 #include "wet2util.h"
 
+#include "AVLTree.h"
+#include "Keys.h"
+#include "Squad.h"
+#include "Hunter.h"
+
 
 class Huntech {
 private:
+    // Active squads by ID: squadId -> Squad*
+    AVLTree<int, Squad*> squadsById;
+
+    // Active squads by (auraSum, squadId), supports select(i)
+    AVLTree<AuraKey, Squad*, AuraKeyLess> squadsByAura;
+
+    // All hunters ever: hunterId -> Hunter*
+    AVLTree<int, Hunter*> huntersById;
+
+    // Manual lists to free all allocated objects (no STL)
+    struct SquadNode {
+        Squad* s;
+        SquadNode* next;
+        SquadNode(Squad* ss, SquadNode* nn) : s(ss), next(nn) {}
+    };
+    struct HunterNode {
+        Hunter* h;
+        HunterNode* next;
+        HunterNode(Hunter* hh, HunterNode* nn) : h(hh), next(nn) {}
+    };
+
+    SquadNode* allSquads;
+    HunterNode* allHunters;
+
+private:
+    // DSU find with potentials (path compression)
+    Squad* findSquad(Squad* x);
+
+    // fightPotential(block) = root.fightsAddRoot + offset(block->root)
+    int fightPotential(Squad* x);
+
+    // nenShiftToRoot(block) = offset(block->root) in NenAbility space
+    NenAbility nenShiftToRoot(Squad* x);
+
+    void freeAll();
     //
     // Here you may add anything you need to implement your Huntech class
     //
