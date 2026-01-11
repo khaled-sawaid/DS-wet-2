@@ -1,0 +1,2000 @@
+addSquad 1
+addSquad 2
+addSquad 3
+addSquad 4
+addSquad 5
+addSquad 6
+addSquad 7
+addSquad 8
+addSquad 9
+addSquad 10
+addHunter 1 7 Emitter 91 2
+addHunter 2 4 Manipulator 38 1
+addHunter 3 4 Specialist 29 1
+addHunter 4 6 Conjurer 340 2
+addHunter 5 7 Conjurer 22 0
+addHunter 6 8 Manipulator 67 1
+addHunter 7 10 Transmuter 33 1
+addHunter 8 7 Specialist 94 2
+addHunter 9 4 Transmuter 29 2
+addHunter 10 7 Enhancer 44 1
+addHunter 11 6 Emitter 32 0
+addHunter 12 7 Enhancer 49 1
+addHunter 13 6 Manipulator 41 1
+addHunter 14 7 Manipulator 114 2
+addHunter 15 5 Conjurer 38 0
+addHunter 16 1 Transmuter 3 0
+addHunter 17 3 Manipulator 104 1
+addHunter 18 2 Transmuter 91 3
+addHunter 19 7 Manipulator 89 3
+addHunter 20 9 Enhancer 89 2
+addHunter 21 7 Enhancer 38 1
+addHunter 22 1 Transmuter 51 3
+addHunter 23 3 Specialist 25 3
+addHunter 24 3 Transmuter 32 1
+addHunter 25 7 Enhancer 17 3
+removeSquad 5
+squadDuel 8 2
+addHunter 26 10 Conjurer 108 1
+forceJoin 10 5
+getPartialNenAbility 11
+removeSquad 489
+getPartialNenAbility 8
+forceJoin 9 10
+addHunter 27 1 Specialist 4 6
+getPartialNenAbility 801
+addHunter 28 7 Manipulator 516 8
+getPartialNenAbility 756
+addSquad 136
+getPartialNenAbility 25
+forceJoin 1 9
+getPartialNenAbility 10
+addHunter 29 8 Emitter 17 7
+getPartialNenAbility 14
+removeSquad 10
+getPartialNenAbility 20
+squadDuel 3 1
+getPartialNenAbility 19
+forceJoin 413 413
+addHunter 30 4 Emitter 92 4
+addHunter 31 1 Transmuter 28 5
+squadDuel 136 9
+getPartialNenAbility 11
+getIthCollectiveAuraSquad 5
+forceJoin 136 1
+addHunter 32 2 Transmuter 102 7
+addSquad 5
+getHunterFightsNumber 32
+addHunter 33 7 Transmuter 7 9
+getPartialNenAbility 9
+forceJoin 3 9
+forceJoin 3 10
+getHunterFightsNumber 31
+getHunterFightsNumber 27
+forceJoin 2 464
+forceJoin 136 4
+getPartialNenAbility 12
+getPartialNenAbility 19
+getIthCollectiveAuraSquad 1
+forceJoin 3 6
+forceJoin 7 4
+getPartialNenAbility 0
+addHunter 34 8 Transmuter 2 8
+getHunterFightsNumber 20
+squadDuel 9 4
+getPartialNenAbility 31
+forceJoin 2 6
+addHunter 35 136 Transmuter 66 2
+addHunter 36 250 Enhancer 55 3
+addHunter 37 7 Enhancer 63 0
+addHunter 38 9 Transmuter 3 4
+getPartialNenAbility 35
+getHunterFightsNumber 5
+removeSquad 4
+getHunterFightsNumber 1
+forceJoin 9 2
+forceJoin 106 106
+getHunterFightsNumber 8
+addHunter 39 7 Manipulator 61 7
+addHunter 40 5 Transmuter 26 0
+getPartialNenAbility 39
+getHunterFightsNumber 26
+getHunterFightsNumber 881
+removeSquad 1
+getHunterFightsNumber 19
+addHunter 41 4 Emitter 37 8
+getPartialNenAbility 33
+addHunter 42 7 Emitter 65 8
+removeSquad 462
+addSquad 129
+addHunter 43 8 Transmuter 177 6
+addHunter 44 441 Enhancer 10 0
+getPartialNenAbility 41
+squadDuel 3 7
+squadDuel 136 8
+squadDuel 7 129
+getHunterFightsNumber 9
+getHunterFightsNumber 31
+getPartialNenAbility 19
+forceJoin 3 136
+addSquad 435
+getHunterFightsNumber 28
+removeSquad 3
+addSquad 125
+getPartialNenAbility 42
+getHunterFightsNumber 870
+getHunterFightsNumber 19
+forceJoin 435 129
+addHunter 44 193 Enhancer 2 10
+addHunter 45 7 Emitter 174 0
+getHunterFightsNumber 34
+addSquad 345
+addHunter 46 136 Enhancer 156 2
+forceJoin 9 2
+removeSquad 0
+getHunterFightsNumber 2
+addSquad 251
+squadDuel 5 125
+forceJoin 251 9
+getHunterFightsNumber -1
+addSquad 199
+addHunter 47 2 Emitter 33 0
+addHunter 48 129 Manipulator 12 7
+addHunter 49 8 Transmuter 113 3
+addHunter 50 453 Enhancer 10 0
+getHunterFightsNumber 24
+getIthCollectiveAuraSquad 2
+getHunterFightsNumber 40
+forceJoin 7 251
+addHunter 50 2 Emitter 24 9
+addSquad 124
+squadDuel 251 129
+addSquad 355
+squadDuel 129 461
+removeSquad 129
+addHunter 0 273 Enhancer 5 0
+getHunterFightsNumber 9
+addHunter 51 136 Emitter 124 4
+forceJoin 7 8
+forceJoin 199 7
+getHunterFightsNumber 68
+removeSquad 125
+removeSquad 472
+addHunter 52 7 Specialist 52 7
+forceJoin 136 1
+removeSquad 7
+forceJoin 5 199
+squadDuel 355 199
+getPartialNenAbility 38
+addHunter 53 65 Manipulator 354 7
+getHunterFightsNumber 6
+forceJoin 242 242
+getPartialNenAbility 13
+getHunterFightsNumber 29
+getHunterFightsNumber 27
+addHunter 54 161 Manipulator 91 5
+addHunter 55 199 Transmuter 167 1
+squadDuel 199 454
+addHunter 56 2 Specialist 58 6
+addHunter 57 487 Enhancer 10 0
+addSquad -233
+removeSquad 124
+addHunter 57 5 Emitter 90 10
+getIthCollectiveAuraSquad 3
+addHunter 58 9 Manipulator 9 4
+getHunterFightsNumber 3
+removeSquad 199
+addHunter 59 6 Specialist 27 9
+removeSquad 465
+addHunter 60 136 Enhancer 84 1
+getPartialNenAbility 54
+addHunter 61 315 Emitter 203 2
+forceJoin 41 41
+addSquad 8
+getHunterFightsNumber 49
+removeSquad 473
+addSquad -395
+addSquad 302
+addHunter 62 302 Enhancer 9 6
+forceJoin 9 2
+getPartialNenAbility 35
+getPartialNenAbility 4
+addHunter 63 136 Conjurer 55 3
+addHunter 64 9 Conjurer 240 9
+forceJoin 8 9
+getPartialNenAbility 64
+getIthCollectiveAuraSquad 5
+getPartialNenAbility 15
+getHunterFightsNumber 207
+getPartialNenAbility 54
+getHunterFightsNumber 41
+squadDuel 302 136
+getHunterFightsNumber 44
+getPartialNenAbility 54
+forceJoin 6 9
+getPartialNenAbility 49
+addHunter 65 2 Transmuter 307 2
+addHunter 66 9 Enhancer 32 5
+addSquad 51
+addHunter 67 5 Manipulator 35 2
+getIthCollectiveAuraSquad 1
+getPartialNenAbility 67
+getHunterFightsNumber 53
+forceJoin 8 9
+addHunter 68 8 Enhancer 71 9
+addHunter 69 345 Manipulator 13 1
+addHunter 70 2 Transmuter 83 5
+addHunter 71 51 Conjurer 24 10
+addHunter 72 124 Emitter 174 8
+addHunter 73 8 Emitter 169 0
+getHunterFightsNumber 49
+addHunter 0 5 Enhancer 5 0
+getPartialNenAbility 67
+forceJoin 9 478
+forceJoin 355 435
+squadDuel 5 481
+removeSquad 251
+squadDuel 302 2
+getHunterFightsNumber 30
+forceJoin 93 93
+getPartialNenAbility 67
+removeSquad 355
+squadDuel 2 136
+getHunterFightsNumber 166
+getPartialNenAbility 58
+getPartialNenAbility 65
+removeSquad 467
+addHunter 74 2 Emitter 54 1
+forceJoin 302 435
+getHunterFightsNumber 69
+addHunter 75 2 Manipulator 32 4
+addSquad 414
+addHunter 76 2 Specialist 433 5
+addHunter 77 136 Emitter 37 4
+getIthCollectiveAuraSquad 7
+squadDuel 302 414
+forceJoin 345 435
+addHunter 78 435 Manipulator 71 4
+getPartialNenAbility 73
+addHunter 79 136 Transmuter 198 7
+addHunter 80 458 Enhancer 10 0
+removeSquad 51
+getHunterFightsNumber 15
+getHunterFightsNumber 66
+addHunter 80 136 Enhancer 77 3
+getPartialNenAbility 32
+getHunterFightsNumber 33
+getPartialNenAbility 58
+removeSquad 2
+getPartialNenAbility 68
+getHunterFightsNumber 774
+getPartialNenAbility 80
+addHunter 81 302 Specialist 47 1
+forceJoin 414 435
+forceJoin 345 435
+getHunterFightsNumber 81
+forceJoin 9 6
+addHunter 82 9 Transmuter 29 9
+addHunter 83 435 Conjurer 82 4
+forceJoin 414 8
+addHunter 84 414 Enhancer 13 6
+addHunter 85 435 Manipulator 140 1
+getHunterFightsNumber 40
+addHunter 86 6 Manipulator 216 8
+getIthCollectiveAuraSquad 16
+addHunter 87 9 Conjurer 45 6
+removeSquad 116
+removeSquad 453
+getPartialNenAbility 58
+forceJoin 9 302
+addHunter 88 9 Transmuter 32 6
+squadDuel 136 302
+addSquad 8
+addSquad 4
+getPartialNenAbility 43
+forceJoin 435 468
+addSquad 251
+getIthCollectiveAuraSquad 3
+addHunter 89 450 Enhancer 10 0
+getPartialNenAbility 54
+addSquad 86
+getPartialNenAbility 54
+squadDuel 86 302
+addSquad 9
+getHunterFightsNumber 29
+addSquad 209
+addHunter 89 9 Conjurer 3 5
+getHunterFightsNumber -1
+getIthCollectiveAuraSquad 6
+getIthCollectiveAuraSquad 16
+getPartialNenAbility 77
+addHunter 90 136 Emitter 31 7
+addSquad 124
+addHunter 0 292 Enhancer 5 0
+addSquad 213
+removeSquad 124
+getPartialNenAbility 64
+getPartialNenAbility 14
+forceJoin 414 4
+forceJoin 209 9
+getIthCollectiveAuraSquad 15
+getHunterFightsNumber 25
+getPartialNenAbility 804
+getHunterFightsNumber 49
+squadDuel 213 6
+addSquad 232
+getPartialNenAbility 29
+getHunterFightsNumber 86
+getHunterFightsNumber 47
+getHunterFightsNumber 18
+getPartialNenAbility 82
+getHunterFightsNumber 30
+addHunter 0 219 Enhancer 5 0
+getPartialNenAbility 58
+squadDuel 8 136
+addHunter 91 86 Manipulator 79 8
+removeSquad 473
+getHunterFightsNumber 49
+getPartialNenAbility 62
+addSquad 211
+squadDuel 211 6
+forceJoin 136 86
+getHunterFightsNumber 19
+getHunterFightsNumber 88
+getPartialNenAbility 78
+getPartialNenAbility 63
+forceJoin 6 414
+forceJoin 211 302
+getPartialNenAbility 69
+forceJoin 136 302
+addSquad 290
+getHunterFightsNumber 79
+getPartialNenAbility 91
+addSquad 31
+getPartialNenAbility 0
+getPartialNenAbility 46
+squadDuel 213 457
+getPartialNenAbility 36
+forceJoin 435 232
+getHunterFightsNumber 468
+forceJoin 290 136
+getHunterFightsNumber 43
+squadDuel 232 5
+addSquad 241
+getPartialNenAbility 38
+getPartialNenAbility 80
+squadDuel 31 9
+getIthCollectiveAuraSquad 20
+getHunterFightsNumber 61
+getHunterFightsNumber 77
+getPartialNenAbility 65
+squadDuel 241 482
+getIthCollectiveAuraSquad 10
+addHunter 92 31 Emitter 50 3
+getHunterFightsNumber 788
+removeSquad 232
+removeSquad 0
+addHunter 93 241 Emitter 25 6
+addHunter 94 31 Specialist 52 3
+addHunter 95 195 Emitter 322 3
+addHunter 96 241 Transmuter 18 1
+getIthCollectiveAuraSquad 5
+squadDuel 136 6
+removeSquad 6
+squadDuel 211 31
+getPartialNenAbility 82
+forceJoin 331 331
+forceJoin 4 302
+addSquad 120
+getPartialNenAbility 53
+addHunter 97 4 Enhancer 25 3
+getPartialNenAbility 21
+addHunter 98 209 Conjurer 41 8
+getPartialNenAbility 95
+getHunterFightsNumber 75
+getPartialNenAbility 41
+getPartialNenAbility 15
+addHunter 99 414 Manipulator 3 1
+addSquad 217
+addSquad 404
+getPartialNenAbility 90
+getIthCollectiveAuraSquad 24
+getPartialNenAbility 29
+addHunter 100 213 Manipulator 37 2
+getHunterFightsNumber 263
+addSquad 32
+getHunterFightsNumber 68
+getHunterFightsNumber 1
+addHunter 79 89 Enhancer 137 6
+addHunter 101 443 Enhancer 10 0
+getHunterFightsNumber -1
+getHunterFightsNumber 5
+getHunterFightsNumber 85
+addHunter 0 284 Enhancer 5 0
+forceJoin 136 32
+addSquad 73
+getIthCollectiveAuraSquad 29
+squadDuel 91 91
+addHunter 101 251 Conjurer 213 6
+addHunter 102 86 Specialist 31 3
+forceJoin 290 73
+getPartialNenAbility 29
+addHunter 28 345 Manipulator 123 8
+getPartialNenAbility 85
+addSquad 213
+removeSquad 345
+removeSquad 217
+getPartialNenAbility 772
+addSquad 258
+addHunter 77 414 Specialist 31 3
+removeSquad 251
+forceJoin 4 6
+addHunter 103 31 Specialist 23 0
+getPartialNenAbility 91
+forceJoin 435 86
+forceJoin 5 32
+addHunter 104 211 Transmuter 10 1
+getIthCollectiveAuraSquad 18
+getIthCollectiveAuraSquad 29
+getPartialNenAbility 62
+addHunter 105 302 Conjurer 51 0
+getPartialNenAbility 97
+addHunter 106 241 Emitter 7 1
+getHunterFightsNumber 41
+addHunter 107 32 Conjurer 34 3
+removeSquad 456
+getIthCollectiveAuraSquad 3
+getPartialNenAbility 105
+forceJoin 209 73
+squadDuel 241 211
+getHunterFightsNumber -1
+forceJoin 258 404
+addSquad 94
+getHunterFightsNumber 697
+addSquad -436
+forceJoin 302 8
+getPartialNenAbility 57
+getPartialNenAbility 87
+removeSquad 404
+addHunter 108 490 Enhancer 10 0
+addHunter 108 31 Enhancer 38 6
+getPartialNenAbility 36
+getPartialNenAbility 97
+getPartialNenAbility 78
+getPartialNenAbility 105
+getPartialNenAbility 843
+removeSquad 136
+getPartialNenAbility 23
+removeSquad 302
+addSquad 257
+forceJoin 8 31
+addSquad 57
+getIthCollectiveAuraSquad 23
+addHunter 109 435 Transmuter 26 8
+getHunterFightsNumber 85
+getPartialNenAbility 92
+forceJoin 213 258
+getPartialNenAbility 37
+squadDuel 414 94
+getPartialNenAbility 89
+addHunter 110 5 Manipulator 9 0
+addHunter 111 120 Manipulator 65 8
+getPartialNenAbility 73
+forceJoin 4 32
+squadDuel 8 458
+squadDuel 57 5
+getPartialNenAbility 80
+addHunter 112 258 Emitter 31 3
+getHunterFightsNumber 93
+addSquad 46
+addHunter 113 32 Emitter 56 0
+addHunter 114 32 Conjurer 194 10
+getHunterFightsNumber 41
+getHunterFightsNumber 14
+getPartialNenAbility 53
+addHunter 115 94 Specialist 268 3
+getPartialNenAbility 91
+getPartialNenAbility 36
+addHunter 116 73 Enhancer 25 2
+getIthCollectiveAuraSquad 27
+addSquad 322
+addSquad -246
+getHunterFightsNumber 742
+addHunter 117 258 Conjurer 17 10
+getPartialNenAbility 6
+addSquad -222
+getIthCollectiveAuraSquad 32
+removeSquad 290
+addHunter 118 472 Enhancer 10 0
+getPartialNenAbility 708
+squadDuel 5 31
+getHunterFightsNumber 719
+forceJoin 241 459
+removeSquad 120
+getHunterFightsNumber 78
+getHunterFightsNumber 70
+addHunter 118 8 Conjurer 137 8
+removeSquad 94
+squadDuel 73 46
+forceJoin 209 464
+getHunterFightsNumber 24
+getIthCollectiveAuraSquad 7
+addHunter 119 213 Specialist 41 0
+getPartialNenAbility 108
+getPartialNenAbility 8
+addSquad 302
+forceJoin 414 86
+addHunter 120 4 Transmuter 98 4
+getPartialNenAbility 82
+getIthCollectiveAuraSquad 13
+getPartialNenAbility 0
+addSquad -63
+getIthCollectiveAuraSquad 12
+addHunter 121 5 Conjurer 5 1
+getIthCollectiveAuraSquad 21
+addSquad 198
+getPartialNenAbility 120
+addHunter 122 213 Conjurer 16 1
+addHunter 123 46 Emitter 167 2
+addHunter 124 86 Manipulator 126 9
+addHunter 125 302 Enhancer 50 6
+forceJoin 258 488
+getHunterFightsNumber 48
+forceJoin 5 8
+addHunter 126 32 Emitter 45 3
+getHunterFightsNumber 44
+addHunter 127 73 Enhancer 117 1
+squadDuel 257 213
+addHunter 128 9 Conjurer 44 2
+addSquad -192
+addHunter 129 31 Enhancer 29 6
+addHunter 130 116 Transmuter 101 7
+getIthCollectiveAuraSquad 16
+getIthCollectiveAuraSquad 25
+addHunter 131 5 Enhancer 10 3
+forceJoin 435 257
+getPartialNenAbility 57
+removeSquad 435
+addHunter 132 8 Transmuter 34 0
+getIthCollectiveAuraSquad 10
+addHunter 133 73 Conjurer 68 5
+forceJoin 4 86
+squadDuel 73 465
+getHunterFightsNumber 86
+getPartialNenAbility 43
+addSquad 151
+addSquad 171
+squadDuel 302 461
+addHunter 134 258 Enhancer 5 1
+addSquad 243
+getPartialNenAbility 49
+getPartialNenAbility 82
+addHunter 135 241 Conjurer 56 1
+addSquad 156
+addSquad 387
+addSquad 349
+getPartialNenAbility 130
+addSquad 343
+addHunter 136 31 Conjurer 68 1
+squadDuel 258 445
+addHunter 137 387 Emitter 108 9
+getPartialNenAbility 63
+forceJoin 156 258
+getHunterFightsNumber 84
+removeSquad 351
+getPartialNenAbility 127
+addSquad 176
+getHunterFightsNumber 47
+getIthCollectiveAuraSquad 5
+squadDuel 4 449
+forceJoin 322 171
+addHunter 138 343 Transmuter 100 4
+getHunterFightsNumber 50
+addHunter 116 198 Transmuter 140 7
+squadDuel 84 84
+squadDuel 151 322
+forceJoin 46 156
+addHunter 0 182 Enhancer 5 0
+addHunter 139 209 Enhancer 60 10
+addSquad 362
+getPartialNenAbility 102
+forceJoin 9 209
+getPartialNenAbility 134
+getHunterFightsNumber 135
+getPartialNenAbility 883
+addHunter 140 257 Emitter 217 3
+removeSquad 156
+addHunter 141 8 Transmuter 7 8
+addSquad 114
+getPartialNenAbility 52
+forceJoin 9 171
+getHunterFightsNumber 6
+getPartialNenAbility 58
+squadDuel 414 9
+getHunterFightsNumber 92
+squadDuel 211 302
+getPartialNenAbility 113
+forceJoin 4 258
+getPartialNenAbility 20
+removeSquad 443
+addHunter 142 414 Manipulator 105 9
+getPartialNenAbility 91
+addHunter 143 302 Enhancer 111 6
+addSquad 349
+getHunterFightsNumber 110
+addHunter 144 217 Transmuter 6 7
+squadDuel 232 232
+addHunter 131 302 Manipulator 39 3
+addHunter 145 57 Specialist 93 6
+addHunter 146 302 Enhancer 5 1
+forceJoin 176 73
+addHunter 147 31 Transmuter 22 3
+getPartialNenAbility 114
+forceJoin 114 4
+addHunter 148 73 Enhancer 30 3
+getHunterFightsNumber 39
+getHunterFightsNumber 106
+getPartialNenAbility 95
+getHunterFightsNumber -1
+addSquad 337
+addSquad 109
+removeSquad 198
+addHunter 149 9 Enhancer 51 7
+getHunterFightsNumber 131
+addHunter 150 322 Emitter 40 6
+removeSquad 453
+getHunterFightsNumber 81
+squadDuel 46 176
+forceJoin 31 9
+removeSquad 0
+addHunter 151 349 Transmuter 53 10
+addSquad 181
+forceJoin 171 468
+squadDuel 151 241
+squadDuel 171 487
+forceJoin 362 257
+getHunterFightsNumber 48
+getIthCollectiveAuraSquad 1
+addHunter 152 414 Transmuter 137 2
+getHunterFightsNumber 40
+forceJoin 114 349
+removeSquad 478
+getHunterFightsNumber 56
+getPartialNenAbility 40
+addHunter 153 5 Emitter 44 3
+getPartialNenAbility 148
+getPartialNenAbility 61
+getPartialNenAbility 112
+getPartialNenAbility 94
+getHunterFightsNumber 6
+squadDuel 181 4
+getPartialNenAbility 68
+getPartialNenAbility 121
+getPartialNenAbility 0
+addSquad 293
+getPartialNenAbility 881
+removeSquad 257
+getHunterFightsNumber 99
+getHunterFightsNumber 136
+getPartialNenAbility 138
+forceJoin 293 73
+getPartialNenAbility 121
+getPartialNenAbility 151
+getHunterFightsNumber 16
+forceJoin 86 57
+forceJoin 57 109
+removeSquad 442
+addSquad 400
+addHunter 154 302 Manipulator 24 8
+addSquad 90
+addSquad 291
+addHunter 123 213 Conjurer 130 9
+addHunter 155 477 Enhancer 10 0
+getHunterFightsNumber 60
+forceJoin 209 337
+getPartialNenAbility 0
+getPartialNenAbility 112
+addSquad 287
+forceJoin 293 209
+getPartialNenAbility 104
+getIthCollectiveAuraSquad 3
+getPartialNenAbility 145
+getPartialNenAbility 40
+addHunter 155 337 Enhancer 64 4
+forceJoin 349 86
+getHunterFightsNumber 134
+getHunterFightsNumber -1
+forceJoin 400 213
+addHunter 156 176 Emitter 54 4
+addHunter 157 278 Transmuter 44 0
+getHunterFightsNumber 87
+addSquad 307
+getPartialNenAbility 87
+getHunterFightsNumber 135
+forceJoin 387 362
+getHunterFightsNumber -1
+getPartialNenAbility 34
+getHunterFightsNumber 156
+getPartialNenAbility 29
+addSquad 198
+getHunterFightsNumber 151
+addHunter 158 387 Specialist 9 0
+addHunter 159 114 Transmuter 15 10
+getHunterFightsNumber 120
+getHunterFightsNumber 796
+squadDuel 73 483
+squadDuel 387 349
+forceJoin 57 10
+getHunterFightsNumber 20
+removeSquad 0
+getPartialNenAbility 6
+addSquad 68
+addHunter 160 57 Enhancer 5 3
+getPartialNenAbility 96
+addSquad 120
+squadDuel 387 32
+getHunterFightsNumber 26
+forceJoin 109 109
+addHunter 161 480 Enhancer 10 0
+getHunterFightsNumber 17
+squadDuel 46 475
+removeSquad 480
+forceJoin 176 211
+addHunter 161 213 Enhancer 84 0
+addSquad 286
+addSquad 47
+forceJoin 5 349
+squadDuel 349 9
+getIthCollectiveAuraSquad 6
+addSquad 250
+getHunterFightsNumber 10
+getHunterFightsNumber 120
+addSquad 242
+getPartialNenAbility 811
+addHunter 162 171 Transmuter 95 10
+removeSquad 211
+forceJoin 242 387
+addHunter 163 461 Enhancer 10 0
+squadDuel 32 414
+addHunter 163 258 Specialist 44 5
+removeSquad 302
+addHunter 44 345 Conjurer 39 7
+addSquad 5
+forceJoin 241 286
+forceJoin 414 457
+removeSquad 0
+getPartialNenAbility 828
+addHunter 164 173 Transmuter 1 4
+getPartialNenAbility 107
+getPartialNenAbility 32
+addHunter 165 209 Emitter 48 6
+getIthCollectiveAuraSquad 49
+forceJoin 387 251
+getIthCollectiveAuraSquad 1
+getPartialNenAbility 127
+getPartialNenAbility 43
+getHunterFightsNumber 737
+squadDuel 32 151
+squadDuel 91 91
+squadDuel 307 286
+getPartialNenAbility 165
+getPartialNenAbility 64
+getPartialNenAbility 151
+forceJoin 176 302
+forceJoin 90 47
+getPartialNenAbility 44
+squadDuel 307 387
+getPartialNenAbility 84
+squadDuel 4 474
+getPartialNenAbility 75
+getHunterFightsNumber 147
+addSquad -236
+forceJoin 47 213
+squadDuel 400 109
+forceJoin 109 171
+getPartialNenAbility 84
+getHunterFightsNumber 34
+getHunterFightsNumber 79
+squadDuel 343 209
+addHunter 166 241 Transmuter 66 3
+addSquad 94
+getPartialNenAbility 41
+addSquad 202
+getHunterFightsNumber 28
+addHunter 167 287 Enhancer 13 3
+squadDuel 202 9
+addHunter 168 241 Specialist 124 7
+addSquad 142
+getPartialNenAbility 754
+addHunter 169 202 Enhancer 50 6
+getIthCollectiveAuraSquad 48
+addSquad 37
+addHunter 170 293 Specialist 126 9
+addHunter 171 8 Transmuter 174 1
+getPartialNenAbility 144
+forceJoin 109 241
+addSquad 329
+getHunterFightsNumber 105
+getPartialNenAbility 164
+getHunterFightsNumber -1
+removeSquad 4
+addHunter 172 90 Manipulator 77 9
+getPartialNenAbility 92
+forceJoin 9 471
+squadDuel 68 32
+getHunterFightsNumber 5
+getHunterFightsNumber 122
+getPartialNenAbility 129
+addHunter 173 31 Conjurer 7 8
+squadDuel 109 31
+getHunterFightsNumber 51
+getPartialNenAbility 166
+forceJoin 233 233
+addSquad -410
+addHunter 174 68 Enhancer 76 6
+forceJoin 198 120
+squadDuel 9 73
+getPartialNenAbility 108
+addHunter 175 114 Transmuter 6 7
+getHunterFightsNumber 57
+getIthCollectiveAuraSquad 8
+addHunter 176 349 Manipulator 27 10
+getHunterFightsNumber 726
+squadDuel 307 31
+getPartialNenAbility 134
+removeSquad 202
+getPartialNenAbility 98
+forceJoin 209 250
+getHunterFightsNumber 127
+removeSquad 322
+getIthCollectiveAuraSquad 4
+removeSquad 171
+forceJoin 142 329
+addSquad 424
+getHunterFightsNumber 120
+addHunter 177 181 Manipulator 109 10
+addHunter 178 258 Emitter 35 7
+addHunter 179 47 Transmuter 3 8
+addSquad 91
+addSquad 378
+getHunterFightsNumber 83
+addHunter 180 287 Specialist 38 10
+addSquad 429
+getPartialNenAbility 112
+getPartialNenAbility 0
+getHunterFightsNumber 14
+getPartialNenAbility 138
+addSquad -112
+getPartialNenAbility 58
+getPartialNenAbility 106
+getHunterFightsNumber 15
+forceJoin 46 355
+addHunter 181 90 Conjurer 90 8
+addHunter 79 57 Enhancer 80 6
+addHunter 118 286 Manipulator 15 8
+squadDuel 329 46
+removeSquad 471
+addSquad 386
+squadDuel 198 337
+addSquad 424
+getIthCollectiveAuraSquad 55
+getIthCollectiveAuraSquad 55
+addHunter 182 209 Manipulator 51 9
+addHunter 183 291 Specialist 136 4
+forceJoin 86 176
+getPartialNenAbility 137
+removeSquad 90
+getPartialNenAbility 128
+addHunter 184 198 Enhancer 62 0
+addHunter 147 198 Transmuter 52 2
+getHunterFightsNumber 793
+getHunterFightsNumber 742
+forceJoin 181 243
+addHunter 185 209 Transmuter 17 2
+addHunter 186 198 Manipulator 10 10
+getHunterFightsNumber 133
+addSquad 192
+addSquad 130
+forceJoin 73 400
+removeSquad 198
+getPartialNenAbility 138
+forceJoin 76 76
+addSquad 2
+forceJoin 343 109
+addHunter 187 91 Specialist 155 9
+getPartialNenAbility 35
+getHunterFightsNumber 122
+forceJoin 37 400
+addHunter 188 9 Emitter 135 9
+addHunter 189 463 Enhancer 10 0
+getHunterFightsNumber 73
+squadDuel 243 192
+getHunterFightsNumber 857
+getHunterFightsNumber 80
+getHunterFightsNumber 82
+addHunter 189 57 Manipulator 96 9
+forceJoin 91 487
+getPartialNenAbility 135
+removeSquad 464
+removeSquad 479
+addHunter 190 192 Conjurer 2 5
+getPartialNenAbility 782
+addHunter 191 142 Conjurer 23 10
+getPartialNenAbility 123
+addSquad 182
+removeSquad 250
+forceJoin 68 486
+getPartialNenAbility 780
+forceJoin 242 442
+getPartialNenAbility 20
+squadDuel 424 130
+forceJoin 73 243
+forceJoin 91 475
+getHunterFightsNumber -1
+getIthCollectiveAuraSquad 57
+forceJoin 378 57
+removeSquad 441
+getHunterFightsNumber 157
+getHunterFightsNumber 85
+getPartialNenAbility 108
+removeSquad 414
+forceJoin 109 114
+addSquad 198
+addHunter 192 291 Emitter 36 5
+addHunter 193 378 Enhancer 16 5
+getHunterFightsNumber 87
+addHunter 194 464 Enhancer 10 0
+forceJoin 32 349
+getPartialNenAbility 54
+getHunterFightsNumber -1
+addHunter 194 424 Emitter 28 4
+removeSquad 176
+addHunter 195 142 Conjurer 60 9
+forceJoin 242 378
+getPartialNenAbility 174
+addHunter 196 362 Transmuter 66 7
+addHunter 197 329 Transmuter 21 5
+squadDuel 94 2
+addHunter 198 232 Specialist 14 9
+getHunterFightsNumber 72
+getIthCollectiveAuraSquad 10
+forceJoin 343 94
+addHunter 199 429 Enhancer 87 0
+forceJoin 429 86
+getPartialNenAbility 193
+addSquad 296
+getPartialNenAbility 0
+removeSquad 291
+getHunterFightsNumber 35
+getPartialNenAbility 130
+squadDuel 215 215
+getPartialNenAbility 185
+addHunter 200 32 Enhancer 183 4
+squadDuel 73 258
+squadDuel 130 329
+getPartialNenAbility 128
+addHunter 201 362 Conjurer 115 6
+forceJoin 32 467
+forceJoin 287 130
+getPartialNenAbility 186
+addHunter 202 448 Enhancer 10 0
+forceJoin 130 258
+getHunterFightsNumber 148
+getHunterFightsNumber 6
+addSquad 425
+addSquad 328
+removeSquad 450
+squadDuel 182 182
+addHunter 202 109 Enhancer 181 8
+getPartialNenAbility 171
+removeSquad 86
+addHunter 203 32 Manipulator 71 6
+removeSquad 120
+getPartialNenAbility 31
+forceJoin 151 6
+addSquad 423
+getHunterFightsNumber 115
+addHunter 204 9 Emitter 184 2
+getPartialNenAbility 190
+removeSquad 337
+removeSquad 138
+addHunter 205 31 Conjurer 63 2
+getPartialNenAbility 190
+getIthCollectiveAuraSquad 57
+getPartialNenAbility 44
+squadDuel 5 423
+getHunterFightsNumber 105
+getPartialNenAbility 87
+addHunter 206 443 Enhancer 10 0
+squadDuel 241 243
+getHunterFightsNumber 119
+addHunter 206 328 Specialist 75 4
+getHunterFightsNumber 53
+forceJoin 213 355
+forceJoin 293 424
+addSquad 303
+getPartialNenAbility 133
+getHunterFightsNumber 191
+addHunter 207 57 Enhancer 5 10
+forceJoin 370 370
+addHunter 208 192 Transmuter 99 9
+addSquad 175
+forceJoin 351 351
+addHunter 209 32 Specialist 73 2
+removeSquad 448
+getPartialNenAbility 173
+getPartialNenAbility 173
+addSquad 188
+squadDuel 321 321
+getIthCollectiveAuraSquad 22
+getPartialNenAbility 53
+addSquad 192
+addSquad -191
+addHunter 210 387 Conjurer 109 7
+addHunter 211 258 Conjurer 57 7
+getPartialNenAbility 100
+removeSquad 343
+getPartialNenAbility 58
+getPartialNenAbility 194
+forceJoin 329 57
+addHunter 212 286 Transmuter 83 7
+addHunter 0 230 Enhancer 5 0
+addHunter 213 251 Emitter 2 8
+getPartialNenAbility 170
+getIthCollectiveAuraSquad 33
+getIthCollectiveAuraSquad 55
+addSquad 200
+removeSquad 114
+forceJoin 400 8
+getHunterFightsNumber 631
+getPartialNenAbility 179
+squadDuel 286 47
+getPartialNenAbility 174
+getPartialNenAbility 191
+removeSquad 429
+getPartialNenAbility 79
+getPartialNenAbility 194
+getHunterFightsNumber 167
+getIthCollectiveAuraSquad 52
+addHunter 214 198 Emitter 46 2
+forceJoin 46 209
+forceJoin 109 31
+removeSquad 0
+forceJoin 213 423
+getPartialNenAbility 161
+addHunter 215 386 Transmuter 46 10
+getHunterFightsNumber 530
+getIthCollectiveAuraSquad 3
+addHunter 216 442 Enhancer 10 0
+getPartialNenAbility 176
+removeSquad 378
+getPartialNenAbility 118
+addSquad 35
+getHunterFightsNumber 772
+forceJoin 296 130
+getPartialNenAbility 200
+getPartialNenAbility 170
+forceJoin 182 47
+getIthCollectiveAuraSquad 29
+addHunter 1 4 Conjurer 45 8
+forceJoin 47 482
+removeSquad 462
+addHunter 216 287 Enhancer 6 8
+getHunterFightsNumber 216
+getIthCollectiveAuraSquad 30
+addHunter 217 73 Conjurer 48 3
+getPartialNenAbility 19
+getPartialNenAbility 134
+forceJoin 94 32
+forceJoin 87 87
+addHunter 218 73 Transmuter 188 0
+addHunter 219 386 Transmuter 7 2
+addHunter 220 307 Specialist 3 3
+addHunter 221 32 Enhancer 50 10
+forceJoin 258 349
+forceJoin 349 35
+getHunterFightsNumber 813
+removeSquad 483
+getPartialNenAbility 197
+addHunter 222 181 Specialist 9 3
+addHunter 223 182 Emitter 22 9
+getHunterFightsNumber 873
+squadDuel 369 369
+getPartialNenAbility 204
+getHunterFightsNumber 223
+getPartialNenAbility 191
+addSquad 440
+addHunter 224 258 Manipulator 101 6
+squadDuel 258 31
+getPartialNenAbility 107
+addHunter 225 440 Enhancer 229 1
+getPartialNenAbility 70
+getPartialNenAbility 102
+forceJoin 175 57
+getPartialNenAbility 68
+getPartialNenAbility 208
+removeSquad 440
+getPartialNenAbility 66
+getHunterFightsNumber 140
+getPartialNenAbility 182
+squadDuel 424 47
+getIthCollectiveAuraSquad 1
+getPartialNenAbility 220
+removeSquad 241
+removeSquad 188
+forceJoin 387 211
+getPartialNenAbility 787
+getPartialNenAbility 176
+addSquad 302
+getIthCollectiveAuraSquad 11
+addHunter 226 209 Transmuter 19 9
+getHunterFightsNumber 163
+addSquad 440
+getPartialNenAbility 197
+getHunterFightsNumber 60
+addHunter 227 362 Enhancer 53 8
+squadDuel 425 68
+getHunterFightsNumber 126
+getPartialNenAbility 79
+addHunter 228 142 Enhancer 79 2
+getPartialNenAbility 746
+getHunterFightsNumber 714
+getHunterFightsNumber 177
+getHunterFightsNumber 88
+getHunterFightsNumber 198
+getPartialNenAbility 217
+addHunter 229 287 Manipulator 17 5
+forceJoin 287 400
+addSquad 70
+addHunter 177 192 Transmuter 53 10
+addHunter 230 242 Emitter 37 4
+forceJoin 182 488
+addHunter 231 466 Enhancer 10 0
+getPartialNenAbility 206
+addSquad 375
+getPartialNenAbility 171
+getPartialNenAbility 114
+squadDuel 181 9
+getHunterFightsNumber 196
+addHunter 231 375 Enhancer 125 8
+getPartialNenAbility 200
+getHunterFightsNumber 311
+getIthCollectiveAuraSquad 1
+getPartialNenAbility 153
+addHunter 232 182 Emitter 14 6
+addSquad -338
+getHunterFightsNumber 51
+getPartialNenAbility 0
+getPartialNenAbility 57
+addSquad 202
+getHunterFightsNumber 191
+getPartialNenAbility 40
+squadDuel 9 182
+addHunter 233 213 Manipulator 20 8
+getPartialNenAbility 95
+getPartialNenAbility 189
+addHunter 234 302 Manipulator 64 6
+getIthCollectiveAuraSquad 25
+removeSquad 181
+addHunter 0 5 Enhancer 5 0
+removeSquad 202
+getPartialNenAbility 173
+addHunter 235 349 Emitter 18 10
+squadDuel 265 265
+squadDuel 362 447
+squadDuel 296 35
+forceJoin 302 116
+addHunter 236 47 Manipulator 141 1
+getHunterFightsNumber 765
+getHunterFightsNumber 64
+getIthCollectiveAuraSquad 25
+getHunterFightsNumber 151
+addHunter 0 409 Enhancer 5 0
+getHunterFightsNumber 55
+forceJoin 46 151
+forceJoin 287 387
+addSquad 334
+getPartialNenAbility 151
+addSquad 196
+addHunter 141 188 Conjurer 21 0
+addSquad 384
+getHunterFightsNumber 150
+getPartialNenAbility 211
+addSquad 350
+addHunter 237 68 Enhancer 58 7
+getPartialNenAbility 202
+getPartialNenAbility 234
+addHunter 238 130 Conjurer 4 2
+getPartialNenAbility 219
+getPartialNenAbility 151
+getPartialNenAbility 173
+getHunterFightsNumber 730
+getIthCollectiveAuraSquad 59
+addHunter 239 5 Conjurer 69 6
+getPartialNenAbility 144
+getPartialNenAbility 129
+getPartialNenAbility 16
+getIthCollectiveAuraSquad 31
+addHunter 240 109 Enhancer 112 10
+removeSquad 196
+getPartialNenAbility 114
+addHunter 241 213 Conjurer 28 0
+addHunter 242 9 Emitter 331 6
+addHunter 243 213 Conjurer 10 6
+addHunter 207 424 Manipulator 80 3
+addHunter 71 440 Manipulator 92 10
+addHunter 109 242 Enhancer 57 5
+addSquad 375
+getHunterFightsNumber -1
+removeSquad 0
+getHunterFightsNumber 124
+getHunterFightsNumber 57
+getPartialNenAbility 188
+getHunterFightsNumber 107
+addSquad 1
+getHunterFightsNumber 157
+forceJoin 214 214
+getIthCollectiveAuraSquad 41
+getHunterFightsNumber 72
+forceJoin 287 423
+addHunter 244 212 Specialist 39 6
+squadDuel 287 258
+addHunter 245 258 Enhancer 20 2
+getPartialNenAbility 110
+squadDuel 151 31
+forceJoin 286 429
+getHunterFightsNumber 191
+getHunterFightsNumber 20
+removeSquad 468
+getPartialNenAbility 27
+squadDuel 375 242
+addHunter 246 258 Manipulator 45 5
+squadDuel 31 459
+addHunter 247 329 Emitter 18 9
+removeSquad 198
+addHunter 248 91 Enhancer 34 6
+addHunter 249 33 Enhancer 12 4
+squadDuel 9 450
+removeSquad 451
+squadDuel 94 296
+removeSquad 182
+squadDuel 258 303
+addSquad 367
+getPartialNenAbility 166
+forceJoin 32 296
+squadDuel 286 375
+getIthCollectiveAuraSquad 30
+getPartialNenAbility 243
+getHunterFightsNumber 722
+addHunter 250 9 Transmuter 75 1
+getPartialNenAbility 95
+forceJoin 24 24
+squadDuel 142 483
+forceJoin 5 2
+squadDuel 1 47
+addHunter 251 451 Enhancer 10 0
+addHunter 115 302 Conjurer 15 0
+squadDuel 47 367
+forceJoin 151 142
+getPartialNenAbility 44
+getHunterFightsNumber 138
+getHunterFightsNumber 17
+getHunterFightsNumber 46
+getIthCollectiveAuraSquad 16
+getHunterFightsNumber 232
+addHunter 251 400 Emitter 78 2
+squadDuel 387 9
+squadDuel 307 35
+getPartialNenAbility 171
+getHunterFightsNumber -1
+addHunter 48 322 Specialist 11 5
+getHunterFightsNumber 120
+getIthCollectiveAuraSquad 2
+addHunter 252 375 Enhancer 45 0
+addHunter 253 329 Specialist 27 9
+squadDuel 242 142
+addHunter 237 68 Manipulator 233 5
+getHunterFightsNumber 187
+addHunter 254 199 Emitter 110 5
+getPartialNenAbility 245
+removeSquad 37
+addHunter 255 334 Emitter 148 9
+addHunter 256 387 Specialist 106 5
+getHunterFightsNumber 248
+getPartialNenAbility 112
+addHunter 257 68 Emitter 84 4
+addSquad 202
+addHunter 258 440 Emitter 30 5
+getPartialNenAbility 186
+getHunterFightsNumber 18
+getHunterFightsNumber -1
+getHunterFightsNumber 817
+getPartialNenAbility 166
+addSquad 414
+getHunterFightsNumber 188
+getHunterFightsNumber 113
+getHunterFightsNumber 182
+getHunterFightsNumber 238
+getHunterFightsNumber 174
+forceJoin 293 424
+getPartialNenAbility 207
+addHunter 53 384 Manipulator 95 8
+getPartialNenAbility 249
+addHunter 259 386 Emitter 21 1
+getPartialNenAbility 208
+addHunter 260 8 Transmuter 40 3
+getPartialNenAbility 114
+getIthCollectiveAuraSquad 29
+getIthCollectiveAuraSquad 9
+removeSquad 472
+getIthCollectiveAuraSquad 31
+forceJoin 47 350
+getIthCollectiveAuraSquad 20
+forceJoin 307 466
+getHunterFightsNumber 95
+getHunterFightsNumber 248
+getPartialNenAbility 145
+getHunterFightsNumber 65
+getHunterFightsNumber 66
+addSquad 363
+forceJoin 5 142
+addSquad 33
+forceJoin 202 334
+getPartialNenAbility 252
+addSquad -50
+getIthCollectiveAuraSquad 12
+removeSquad 485
+getPartialNenAbility 141
+addHunter 261 124 Enhancer 72 2
+getPartialNenAbility 110
+getPartialNenAbility 794
+getPartialNenAbility 208
+getPartialNenAbility 241
+addHunter 262 329 Transmuter 3 2
+addHunter 263 142 Manipulator 84 5
+getIthCollectiveAuraSquad 9
+forceJoin 33 287
+getHunterFightsNumber 412
+getPartialNenAbility 195
+getHunterFightsNumber 193
+addHunter 264 73 Enhancer 63 0
+removeSquad 289
+getPartialNenAbility 35
+addHunter 265 151 Transmuter 11 2
+getHunterFightsNumber 167
+getPartialNenAbility 235
+addHunter 266 286 Conjurer 100 2
+removeSquad 242
+getPartialNenAbility 133
+removeSquad 400
+getHunterFightsNumber 252
+getHunterFightsNumber 116
+addHunter 267 47 Transmuter 58 9
+getPartialNenAbility 229
+getPartialNenAbility 219
+addSquad 177
+forceJoin 293 46
+getHunterFightsNumber 231
+getHunterFightsNumber 56
+getPartialNenAbility 165
+getPartialNenAbility 128
+squadDuel 258 5
+getHunterFightsNumber 208
+addSquad 355
+getHunterFightsNumber 181
+forceJoin 286 375
+removeSquad 1
+getPartialNenAbility 227
+getPartialNenAbility 133
+forceJoin 142 213
+forceJoin 292 292
+getIthCollectiveAuraSquad 55
+addHunter 268 130 Conjurer 101 6
+forceJoin 151 355
+getHunterFightsNumber -1
+removeSquad 73
+getPartialNenAbility 242
+getHunterFightsNumber 210
+addHunter 20 302 Manipulator 4 8
+removeSquad 177
+addHunter 269 302 Enhancer 37 1
+getHunterFightsNumber 461
+addHunter 270 32 Manipulator 38 10
+addHunter 271 329 Transmuter 23 9
+removeSquad 130
+getPartialNenAbility 40
+getHunterFightsNumber 102
+getPartialNenAbility 174
+addSquad 370
+forceJoin 414 440
+addSquad 215
+getHunterFightsNumber 62
+squadDuel 440 328
+squadDuel 424 142
+addSquad 177
+squadDuel 70 440
+addHunter 272 192 Transmuter 51 6
+forceJoin 367 386
+getPartialNenAbility 67
+removeSquad 488
+addHunter 273 307 Transmuter 73 2
+addHunter 274 384 Enhancer 34 9
+addHunter 52 287 Enhancer 71 9
+getHunterFightsNumber 677
+getPartialNenAbility 36
+addHunter 275 177 Specialist 302 3
+removeSquad 484
+squadDuel 334 303
+addHunter 30 91 Conjurer 94 5
+forceJoin 293 355
+getPartialNenAbility 759
+getPartialNenAbility 134
+addSquad 365
+squadDuel 296 329
+addHunter 276 258 Conjurer 42 7
+getHunterFightsNumber 27
+getHunterFightsNumber 355
+getHunterFightsNumber 198
+removeSquad 425
+addHunter 277 75 Transmuter 46 1
+addSquad 387
+addSquad 115
+removeSquad 423
+getHunterFightsNumber 4
+addSquad 35
+addHunter 278 6 Emitter 41 4
+getPartialNenAbility 58
+getHunterFightsNumber 806
+addSquad 175
+getIthCollectiveAuraSquad 7
+getPartialNenAbility 197
+squadDuel 215 334
+addSquad 294
+squadDuel 5 9
+addHunter 279 8 Enhancer 22 9
+addHunter 280 151 Transmuter 34 6
+removeSquad 384
+addSquad 259
+squadDuel 287 70
+forceJoin 115 488
+getPartialNenAbility 228
+addSquad -195
+getPartialNenAbility 191
+getHunterFightsNumber 181
+addHunter 281 35 Emitter 39 4
+getPartialNenAbility 252
+addHunter 282 302 Emitter 13 3
+getHunterFightsNumber 61
+getHunterFightsNumber 165
+getHunterFightsNumber 840
+removeSquad 32
+removeSquad 9
+getPartialNenAbility 5
+addHunter 283 171 Enhancer 87 3
+getPartialNenAbility 30
+addHunter 284 465 Enhancer 10 0
+getHunterFightsNumber 20
+addSquad 174
+addHunter 284 248 Enhancer 19 0
+getPartialNenAbility 195
+addSquad -258
+getHunterFightsNumber 78
+getPartialNenAbility 118
+getIthCollectiveAuraSquad 21
+getHunterFightsNumber -1
+getHunterFightsNumber 772
+addHunter 285 68 Transmuter 95 10
+forceJoin 294 31
+getPartialNenAbility 253
+getHunterFightsNumber 178
+addSquad 29
+getPartialNenAbility 259
+addHunter 286 6 Emitter 96 0
+getHunterFightsNumber 751
+forceJoin 115 449
+addSquad 397
+forceJoin 387 57
+forceJoin 115 181
+getPartialNenAbility 163
+addHunter 287 441 Enhancer 10 0
+forceJoin 29 414
+addSquad 318
+getHunterFightsNumber 158
+getPartialNenAbility 278
+getPartialNenAbility 40
+getIthCollectiveAuraSquad 51
+forceJoin 202 472
+getHunterFightsNumber 167
+addHunter 287 355 Emitter 159 3
+getPartialNenAbility 196
+squadDuel 286 258
+getPartialNenAbility 137
+addHunter 288 35 Emitter 109 9
+getPartialNenAbility 0
+addSquad 125
+getPartialNenAbility 271
+getPartialNenAbility 189
+addSquad 222
+addHunter 289 363 Emitter 153 1
+squadDuel 215 258
+addSquad 96
+getHunterFightsNumber 10
+addSquad 26
+addHunter 290 91 Emitter 11 1
+removeSquad 365
+addSquad -92
+addSquad 275
+removeSquad 8
+getPartialNenAbility 235
+addSquad 82
+addHunter 291 33 Transmuter 13 6
+getHunterFightsNumber 165
+removeSquad 118
+getHunterFightsNumber 33
+removeSquad 0
+forceJoin 215 275
+getHunterFightsNumber 207
+getPartialNenAbility 190
+getPartialNenAbility 196
+getHunterFightsNumber 194
+removeSquad 202
+forceJoin 294 177
+forceJoin 293 68
+getPartialNenAbility 205
+getIthCollectiveAuraSquad 54
+forceJoin 349 199
+removeSquad 329
+squadDuel 294 29
+addSquad 127
+squadDuel 200 370
+getPartialNenAbility 170
+getHunterFightsNumber 736
+addSquad 361
+getPartialNenAbility 778
+getHunterFightsNumber 273
+addHunter 292 94 Manipulator 33 7
+getPartialNenAbility 717
+getIthCollectiveAuraSquad 9
+addHunter 293 424 Conjurer 112 5
+getPartialNenAbility 194
+getIthCollectiveAuraSquad 54
+getHunterFightsNumber 288
+forceJoin 414 350
+squadDuel 349 459
+forceJoin 397 96
+getHunterFightsNumber -1
+addHunter 294 414 Manipulator 42 0
+squadDuel 397 355
+getIthCollectiveAuraSquad 57
+forceJoin 94 307
+getHunterFightsNumber 285
+getHunterFightsNumber 290
+squadDuel 414 375
+addHunter 295 375 Conjurer 40 10
+getPartialNenAbility 206
+addSquad 195
+getPartialNenAbility 259
+forceJoin 175 200
+getHunterFightsNumber 755
+addSquad -163
+squadDuel 421 421
+getHunterFightsNumber 104
+getPartialNenAbility 255
+addHunter 0 296 Enhancer 5 0
+addSquad 374
+getHunterFightsNumber 85
+getHunterFightsNumber 753
+getHunterFightsNumber 282
+getHunterFightsNumber 206
+squadDuel 142 367
+squadDuel 387 57
+addHunter 296 424 Transmuter 65 1
+addHunter 297 94 Transmuter 143 6
+getIthCollectiveAuraSquad 9
+getPartialNenAbility 30
+getHunterFightsNumber 277
+addHunter 298 490 Enhancer 10 0
+removeSquad 109
+addSquad 429
+addSquad 323
+getIthCollectiveAuraSquad 73
+addHunter 298 70 Conjurer 171 7
+getPartialNenAbility 20
+addSquad 343
+squadDuel 414 47
+getPartialNenAbility 205
+addHunter 299 46 Enhancer 7 5
+getIthCollectiveAuraSquad 70
+getPartialNenAbility 57
+addHunter 300 386 Enhancer 88 8
+removeSquad 287
+addHunter 301 451 Enhancer 10 0
+squadDuel 424 57
+addSquad 323
+getPartialNenAbility 265
+getPartialNenAbility 269
+getHunterFightsNumber 5
+getHunterFightsNumber 252
+getHunterFightsNumber 276
+squadDuel 192 464
+addHunter 301 414 Manipulator 10 10
+getPartialNenAbility 96
+addSquad 373
+getPartialNenAbility 258
+forceJoin 96 70
+addHunter 302 213 Enhancer 139 8
+getPartialNenAbility 30
+addHunter 303 222 Specialist 113 0
+forceJoin 35 361
+getPartialNenAbility 786
+getPartialNenAbility 118
+getPartialNenAbility 195
+addHunter 304 361 Emitter 29 1
+getHunterFightsNumber 179
+getHunterFightsNumber 288
+getPartialNenAbility 174
+getPartialNenAbility 290
+squadDuel 213 200
+addHunter 305 46 Emitter 32 8
+getPartialNenAbility 198
+getHunterFightsNumber 744
+getHunterFightsNumber 285
+getHunterFightsNumber 775
+addHunter 306 33 Transmuter 216 0
+forceJoin 151 243
+getPartialNenAbility 122
+getHunterFightsNumber 287
+addSquad 324
+addSquad 110
+addHunter 307 47 Manipulator 71 6
+addHunter 308 209 Manipulator 1 8
+getPartialNenAbility 205
+addHunter 309 324 Emitter 24 6
+getPartialNenAbility 118
+getPartialNenAbility 277
+removeSquad 136
+getPartialNenAbility 44
+addHunter 310 429 Emitter 80 3
+getIthCollectiveAuraSquad 51
+getHunterFightsNumber 226
+addSquad 402
+getIthCollectiveAuraSquad 72
+addSquad 302
+forceJoin 275 82
+getPartialNenAbility 92
+addHunter 311 9 Emitter 20 9
+getPartialNenAbility 92
+forceJoin 374 68
+getHunterFightsNumber 218
+getPartialNenAbility 275
+addSquad 343
+getPartialNenAbility 0
+getIthCollectiveAuraSquad 13
+getPartialNenAbility 261
+getHunterFightsNumber 35
+getPartialNenAbility 311
+addSquad 408
+getPartialNenAbility 71
+addSquad -286
+getPartialNenAbility 112
+getHunterFightsNumber 156
+forceJoin 343 151
+addHunter 312 429 Enhancer 251 1
+forceJoin 125 487
+getIthCollectiveAuraSquad 17
+removeSquad 35
+getHunterFightsNumber 298
+forceJoin 218 218
+addHunter 313 460 Enhancer 10 0
+getPartialNenAbility 194
+addHunter 313 334 Enhancer 54 5
+forceJoin 361 31
+addSquad 184
+addHunter 314 324 Transmuter 112 0
+squadDuel 355 33
+addHunter 315 355 Manipulator 7 0
+forceJoin 5 29
+getPartialNenAbility 237
+forceJoin 328 444
+getHunterFightsNumber 252
+getIthCollectiveAuraSquad 64
+getHunterFightsNumber 204
+squadDuel 318 31
+getHunterFightsNumber 116
+addHunter 316 2 Transmuter 19 9
+forceJoin 367 480
+addHunter 317 184 Transmuter 118 3
+getHunterFightsNumber 479
+addSquad 367
+getPartialNenAbility 303
+addHunter 318 175 Enhancer 13 2
+squadDuel 127 459
+addHunter 319 4 Enhancer 50 7
+addSquad 404
+addHunter 320 110 Manipulator 74 9
+addSquad 87
+addHunter 321 275 Emitter 66 9
+addHunter 322 350 Conjurer 3 3
+getHunterFightsNumber 219
+squadDuel 174 127
+forceJoin 70 222
+getPartialNenAbility 306
+addSquad 228
+squadDuel 96 142
+addHunter 323 363 Transmuter 173 1
+getHunterFightsNumber 222
+getPartialNenAbility 278
+addHunter 324 318 Transmuter 65 7
+getHunterFightsNumber 87
+removeSquad 184
+addHunter 276 26 Enhancer 29 6
+getPartialNenAbility 212
+addHunter 325 82 Manipulator 23 0
+getPartialNenAbility 206
+addSquad 37
+addHunter 326 91 Manipulator 12 9
+addHunter 327 386 Enhancer 123 1
+getPartialNenAbility 249
+getHunterFightsNumber 227
+getIthCollectiveAuraSquad 82
+getPartialNenAbility 157
+getHunterFightsNumber 307
+getHunterFightsNumber 215
+getIthCollectiveAuraSquad 29
+addSquad 353
+addHunter 328 343 Specialist 22 7
+addHunter 329 293 Emitter 24 7
+addHunter 330 453 Enhancer 10 0
+getPartialNenAbility 103
+getPartialNenAbility 318
+addSquad 203
+getHunterFightsNumber 89
+getPartialNenAbility 187
+getHunterFightsNumber 207
+squadDuel 228 323
+removeSquad 443
+getPartialNenAbility 298
+addHunter 330 29 Conjurer 204 7
+addHunter 331 374 Transmuter 78 0
+getPartialNenAbility 213
+getPartialNenAbility 326
+getHunterFightsNumber 67
+forceJoin 203 29
+addHunter 332 489 Enhancer 10 0
+getPartialNenAbility 211
+getPartialNenAbility 290
+squadDuel 355 258
+addHunter 332 404 Manipulator 129 7
+addSquad 47
+removeSquad 350
+getPartialNenAbility 170
+addSquad -105
+forceJoin 200 307
+addSquad 384
+removeSquad 342
+getHunterFightsNumber 400
+removeSquad 0
+getIthCollectiveAuraSquad 39
+addHunter 333 57 Conjurer 11 2
+addHunter 334 215 Emitter 108 0
+addHunter 335 75 Conjurer 159 2
+addSquad 196
+addHunter 336 57 Transmuter 64 2
+addHunter 337 303 Transmuter 99 5
+getPartialNenAbility 214
+addHunter 338 31 Conjurer 29 0
+getPartialNenAbility 312
+addHunter 339 374 Transmuter 18 0
+addHunter 340 31 Emitter 57 9
+addHunter 341 174 Enhancer 163 5
+squadDuel 209 94
+getHunterFightsNumber 20
+getHunterFightsNumber 230
+getHunterFightsNumber 335
+addHunter 342 213 Enhancer 94 5
+squadDuel 294 355
+removeSquad 70
+squadDuel 82 323
+squadDuel 302 46
+getPartialNenAbility 244
+getIthCollectiveAuraSquad 31
+addSquad 355
+addHunter 343 362 Transmuter 24 0
+getPartialNenAbility 160
+forceJoin 127 110
+getPartialNenAbility 283
+getPartialNenAbility 98
+addHunter 344 31 Enhancer 156 6
+forceJoin 373 343
+getPartialNenAbility 123
+removeSquad 477
+forceJoin 286 302
+addHunter 345 470 Enhancer 10 0
+forceJoin 429 408
+addSquad 53
+getPartialNenAbility 300
+getPartialNenAbility 179
+forceJoin 307 294
+addSquad 175
+getPartialNenAbility 289
+getPartialNenAbility 745
+squadDuel 175 91
+getHunterFightsNumber 28
+addHunter 345 363 Transmuter 144 7
+getPartialNenAbility 273
+getPartialNenAbility 153
+forceJoin 375 47
+squadDuel 209 452
+forceJoin 174 402
+addHunter 346 343 Conjurer 103 7
+squadDuel 408 142
+getPartialNenAbility 320
+addHunter 347 302 Enhancer 7 8
+getHunterFightsNumber 83
+addSquad 211
+addHunter 110 429 Enhancer 11 8
+getHunterFightsNumber 174
+getHunterFightsNumber -1
+getPartialNenAbility 308
+addHunter 348 89 Specialist 22 6
+getIthCollectiveAuraSquad 73
+addHunter 349 404 Manipulator 67 2
+getPartialNenAbility 245
+squadDuel 424 457
+addHunter 350 211 Specialist 72 3
+addHunter 351 384 Manipulator 72 2
+addHunter 352 449 Enhancer 10 0
+getPartialNenAbility 804
+squadDuel 228 370
+addHunter 352 404 Specialist 31 8
+squadDuel 404 275
+getPartialNenAbility 336
+removeSquad 5
+addHunter 353 355 Transmuter 279 4
+getPartialNenAbility 248
+squadDuel 125 209
+getPartialNenAbility 332
+addSquad 266
+addHunter 354 26 Transmuter 18 8
+forceJoin 87 343
+getPartialNenAbility 205
+addHunter 355 57 Specialist 144 1
+addSquad 275
+getPartialNenAbility 311
+forceJoin 374 302
+addHunter 356 57 Transmuter 19 9
+getPartialNenAbility 295
+forceJoin 334 303
+squadDuel 386 243
+getPartialNenAbility 136
+addSquad 120
+getPartialNenAbility 198
+getPartialNenAbility 300
+forceJoin 87 57
+getPartialNenAbility 94
+removeSquad 448
+forceJoin 307 293
+squadDuel 375 266
+getHunterFightsNumber 298
+removeSquad 258
+addHunter 355 70 Conjurer 120 10
+addSquad 45
+squadDuel 271 271
+addHunter 357 37 Conjurer 49 8
+getIthCollectiveAuraSquad 41
+addHunter 75 82 Conjurer 185 4
+addSquad 129
+getPartialNenAbility 291
+getIthCollectiveAuraSquad 48
+getIthCollectiveAuraSquad 21
+forceJoin 151 196
+addHunter 0 57 Enhancer 5 0
+getPartialNenAbility 137
+squadDuel 228 302
+getHunterFightsNumber 178
+getHunterFightsNumber 50
+addHunter 358 266 Specialist 67 7
+forceJoin 190 190
+getIthCollectiveAuraSquad 45
+getHunterFightsNumber 267
+addHunter 330 302 Enhancer 142 3
+getPartialNenAbility 198
+addHunter 180 127 Manipulator 78 4
+removeSquad 445
+addHunter 359 177 Conjurer 30 6
+getPartialNenAbility 291
+getPartialNenAbility 20
+getPartialNenAbility 189
+addHunter 360 473 Enhancer 10 0
+addHunter 360 294 Transmuter 49 10
+squadDuel 91 222
+getPartialNenAbility 161
+squadDuel 45 213
+addHunter 361 296 Specialist 131 1
+getPartialNenAbility 277
+addHunter 362 479 Enhancer 10 0
+addSquad -195
+getPartialNenAbility 235
+squadDuel 429 275
+addHunter 362 177 Conjurer 91 9
+squadDuel 324 328
+getPartialNenAbility 134
+getPartialNenAbility 316
+getHunterFightsNumber 200
+addHunter 363 125 Emitter 126 8
+getPartialNenAbility 330
+getIthCollectiveAuraSquad 81
+forceJoin 275 451
+getHunterFightsNumber 1
+getPartialNenAbility 332
+getPartialNenAbility 324
+forceJoin 125 448
+addSquad 21
+addHunter 364 26 Transmuter 2 4
+forceJoin 375 127
+getIthCollectiveAuraSquad 11
+squadDuel 259 177
+getHunterFightsNumber 808
+getHunterFightsNumber 78
+getPartialNenAbility 777
+addHunter 0 220 Enhancer 5 0
+getHunterFightsNumber 284
+removeSquad 68
+addHunter 365 375 Emitter 70 1
+removeSquad 266
+addSquad -64
+getPartialNenAbility 215
+getPartialNenAbility 272
+getPartialNenAbility 310
+getHunterFightsNumber 141
+squadDuel 33 460
+addHunter 366 408 Specialist 35 3
+removeSquad 477
+addHunter 367 203 Emitter 16 9
+squadDuel 293 375
+forceJoin 375 465
+getPartialNenAbility 300
+addHunter 368 455 Enhancer 10 0
+forceJoin 127 408
+removeSquad 174
+getHunterFightsNumber 328
+getPartialNenAbility 219
+getHunterFightsNumber 285
+squadDuel 307 404
+getPartialNenAbility 226
+addSquad 154
+getHunterFightsNumber 365
+forceJoin 375 455
+addSquad 281
+forceJoin 294 469
+addHunter 368 127 Manipulator 96 2
+addHunter 369 115 Manipulator 37 3
+getPartialNenAbility 353
+addHunter 370 404 Emitter 41 5
+forceJoin 21 362
+getPartialNenAbility 307
+forceJoin 213 45
+squadDuel 343 455
+forceJoin 343 479
+getIthCollectiveAuraSquad 19
+addHunter 371 222 Emitter 4 9
+getHunterFightsNumber 29
+forceJoin 349 243
+getPartialNenAbility 122
+getHunterFightsNumber 95
+getHunterFightsNumber -1
+addSquad 258
+getPartialNenAbility 329
+getHunterFightsNumber 124
+getHunterFightsNumber 77
+removeSquad 259
+getHunterFightsNumber 164
+forceJoin 384 258
+getIthCollectiveAuraSquad 76
+squadDuel 133 133
+getIthCollectiveAuraSquad 1
+getPartialNenAbility 233
+addSquad 88
+forceJoin 258 414
+addHunter 372 318 Transmuter 49 7
+getPartialNenAbility 0

@@ -1,0 +1,100 @@
+addSquad 1
+addSquad 2
+addSquad 3
+addSquad 4
+addSquad 5
+addSquad 6
+addSquad 7
+addSquad 8
+addSquad 9
+addSquad 10
+addHunter 1 10 Specialist 16 0
+addHunter 2 2 Conjurer 45 0
+addHunter 3 5 Transmuter 9 0
+addHunter 4 10 Enhancer 17 1
+addHunter 5 1 Conjurer 76 1
+addHunter 6 3 Transmuter 78 7
+addHunter 7 8 Conjurer 82 8
+addHunter 8 11 Enhancer 11 1
+squadDuel 9 1
+forceJoin 1 10
+addHunter 9 3 Transmuter 50 3
+forceJoin 6 4
+addSquad 1
+addHunter 10 4 Emitter 43 3
+removeSquad 10
+addHunter 11 9 Transmuter 27 8
+getIthCollectiveAuraSquad 14
+addHunter 12 3 Conjurer 138 1
+addSquad 3
+squadDuel 3 9
+getIthCollectiveAuraSquad 5
+getPartialNenAbility 8
+addSquad 10
+addHunter 13 3 Enhancer 30 0
+squadDuel 5 8
+addSquad 4
+squadDuel 10 8
+addHunter 14 1 Conjurer 43 5
+addHunter 15 7 Enhancer 61 3
+getIthCollectiveAuraSquad 2
+squadDuel 4 3
+getHunterFightsNumber 11
+addSquad 5
+forceJoin 4 10
+getIthCollectiveAuraSquad 6
+getPartialNenAbility 7
+addSquad 2
+getPartialNenAbility 124
+forceJoin 4 6
+addHunter 16 9 Conjurer 78 3
+removeSquad 5
+getPartialNenAbility 11
+addHunter 17 9 Manipulator 33 8
+squadDuel 4 8
+getIthCollectiveAuraSquad 12
+squadDuel 4 8
+addSquad 5
+addSquad 2
+addHunter 18 7 Enhancer 67 3
+forceJoin 3 8
+addHunter 19 3 Emitter 13 2
+addHunter 20 5 Conjurer 4 3
+addHunter 21 1 Transmuter 55 10
+squadDuel 1 9
+getHunterFightsNumber 21
+getIthCollectiveAuraSquad 4
+addSquad 6
+addSquad 1
+forceJoin 2 6
+addSquad 11
+getIthCollectiveAuraSquad 8
+getIthCollectiveAuraSquad 11
+addHunter 22 10 Conjurer 3 9
+removeSquad 3
+addSquad 10
+squadDuel 10 7
+squadDuel 6 1
+addSquad 6
+forceJoin 10 9
+addSquad 9
+addSquad 2
+squadDuel 10 11
+getPartialNenAbility 7
+addHunter 23 8 Conjurer 47 5
+addSquad 12
+forceJoin 1 57
+addHunter 24 6 Emitter 9 10
+squadDuel 10 11
+squadDuel 1 41
+squadDuel 10 11
+getIthCollectiveAuraSquad 1
+addHunter 25 6 Manipulator 71 9
+addHunter 26 8 Enhancer 130 2
+forceJoin 7 4
+removeSquad 10
+addHunter 27 10 Conjurer 65 8
+getIthCollectiveAuraSquad 10
+addHunter 28 8 Conjurer 143 4
+addHunter 29 8 Enhancer 24 1
+addHunter 30 2 Conjurer 55 8
